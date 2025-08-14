@@ -5,7 +5,7 @@
 
 ---
 
-## TL;DR
+## 단어 뜻
 - **LangSmith**: LLM 앱의 *로깅/트레이싱/평가* 플랫폼
 - **Runnable(LCEL)**: LangChain의 표준 실행 인터페이스 — `invoke / ainvoke / stream / astream / batch / abatch`
 - **invoke vs stream vs batch**: **단건** / **스트리밍** / **다건(묶음)** 처리
